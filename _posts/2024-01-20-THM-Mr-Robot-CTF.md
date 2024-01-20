@@ -20,7 +20,7 @@ Starting with the initial recon, an Nmap scan will allow us to see any open port
 nmap -sC -sV -Pn 10.10.123.154
 ```
 
-[IMG-1](/assets/Mr-Robot-CTF-Images/Mr-Robot-CTF%20(29).png)
+![IMG-1](/assets/Mr-Robot-CTF-Images/Mr-Robot-CTF%20(29).png)
 
 Seeing that ports 80 and 443 are open means that the machine is running some form of webpage. Upon visiting the site, we are greeted with a very Mr. Robot-esque-themed website.
 
