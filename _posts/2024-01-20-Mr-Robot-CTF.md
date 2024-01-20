@@ -4,8 +4,7 @@ date: 2024-01-20 00:00:00 +/-0800
 categories: [TryHackMe]
 tags: [TryHackMe, CTF]     # TAG names should always be lowercase
 ---
-https://tryhackme.com/room/mrrobot
-
+[https://tryhackme.com/room/mrrobot](https://tryhackme.com/room/mrrobot)
 Connecting to the VPN to access the box :
 
 ```bash
